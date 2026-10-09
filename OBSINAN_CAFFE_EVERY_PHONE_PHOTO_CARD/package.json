@@ -1,0 +1,1 @@
+{"name":"obsinan-caffe-v2","version":"2.0.0","main":"server/server.js","scripts":{"start":"node server/server.js"},"dependencies":{"express":"^4.21.2"}}
